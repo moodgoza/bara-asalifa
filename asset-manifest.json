@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/bara-asalifa/static/css/main.f855e6bc.css",
+    "main.js": "/github.io/bara-asalifa/static/js/main.c3e702d1.js",
+    "static/js/453.cc1e9960.chunk.js": "/github.io/bara-asalifa/static/js/453.cc1e9960.chunk.js",
+    "static/media/logo.svg": "/github.io/bara-asalifa/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/github.io/bara-asalifa/index.html",
+    "main.f855e6bc.css.map": "/github.io/bara-asalifa/static/css/main.f855e6bc.css.map",
+    "main.c3e702d1.js.map": "/github.io/bara-asalifa/static/js/main.c3e702d1.js.map",
+    "453.cc1e9960.chunk.js.map": "/github.io/bara-asalifa/static/js/453.cc1e9960.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c3e702d1.js"
+  ]
+}
